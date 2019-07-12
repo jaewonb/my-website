@@ -1,0 +1,66 @@
+html{
+    text-align:center;
+    background-color:whitesmoke;
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif
+}
+.heading{
+    letter-spacing:0.1em;
+    font-style:italic;
+}
+/** Header **/
+.hero-layout{
+    margin:auto;
+    width:auto%;
+}
+.hero-layout a{
+    font-size:30px;
+}
+.icons{
+    font-size:40px;
+    display:inline-block;
+    padding-left:75px;
+    list-style:none;
+}
+.icons:first-child{
+    margin-left:-75px;
+}
+/** Body **/
+#blurb{
+    max-width:500px;
+    margin:auto;
+}
+a{
+    text-decoration:none;
+}
+
+.experiences ul{
+    list-style:none;
+    margin:0;
+}
+
+.experiences{
+    padding: 5px 5px;
+    border: solid 1px lightgray;
+    list-style:none;
+    line-height:25%;
+    margin:auto;
+    margin-top:10px;
+    max-width:500px;
+}
+.projects ul{
+    list-style:none;
+}
+/** Contact Area**/
+}
+.contact-area{
+    margin:auto;
+    margin-top:50px;
+    max-width:500px;
+}
+.contact-container{
+    max-width:500px;
+    margin:auto;
+    border:1px lightgray solid;
+}
